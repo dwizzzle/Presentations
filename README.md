@@ -1,2 +1,2 @@
 # Presentations
-A repoistory of my presentations
+A repository of my presentations
